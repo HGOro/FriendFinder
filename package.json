@@ -1,0 +1,24 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "HW 11 - Node and Express Servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HGOro/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HGOro/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/HGOro/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
