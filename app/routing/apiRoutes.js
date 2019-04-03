@@ -9,7 +9,7 @@ module.exports = function(app){
     app.post("/api/friends", function(req, res){
      //   console.log(req.body);
         
-     /*
+        /*
         capture the new friend and save to a variable
         loop through current friends and loop their each of the friends scores
         compare current friend score to new friend score
