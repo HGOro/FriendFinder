@@ -1,33 +1,113 @@
 var friends = [
     {
-    "name":"Ahmed",
-    "photo":"https://www.gannett-cdn.com/-mm-/2ef9bde4eed4205f71015259e26e9ad93dc6b4ad/c=81-0-485-539/local/-/media/2017/05/01/JacksonMS/JacksonMS/636292346391795887-gardner.jpg?width=534&height=712&fit=crop",
+    "name":"Zachary Morris",
+    "photo":"https://cdn-images-1.medium.com/max/1200/0*lxWTMsOfB0AzwQj_.jpg",
     "scores":[
         5,
-        1,
-        4,
-        4,
-        5,
-        1,
         2,
         5,
-        4,
-        1
+        3,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
     ]
   },
   {
-    "name":"Kitty",
-    "photo":"https://upload.wikimedia.org/wikipedia/commons/6/69/June_odd-eyed-cat_cropped.jpg",
+    "name":"Kelly Kapowski",
+    "photo":"http://www1.pictures.zimbio.com/mp/ncWz8DbIxyol.jpg",
+    "scores":[
+        4,
+        2,
+        2,
+        3,
+        2,
+        2,
+        2,
+        5,
+        4,
+        5
+    ]
+  },
+  {
+    "name":"Samuel Powers",
+    "photo":"https://i.pinimg.com/originals/61/35/b2/6135b2c96a45c853a3cbef556a44d5c0.jpg",
+    "scores":[
+        4,
+        2,
+        5,
+        3,
+        2,
+        5,
+        1,
+        4,
+        4,
+        2
+    ]
+  },
+  {
+    "name":"Lisa Turtle",
+    "photo":"https://typeset-beta.imgix.net/lovelace/uploads/112/6da54490-5d59-0133-0b45-0e76e5725d9d.jpg",
     "scores":[
         5,
         1,
-        3,
+        4,
         3,
         4,
+        4,
+        4,
+        5,
+        3,
+        5
+    ]
+  },
+  {
+    "name":"Albert Clifford Slater",
+    "photo":"https://i.pinimg.com/originals/3a/9d/f2/3a9df2588b1e628002e62d1516570f0b.jpg",
+    "scores":[
+        4,
+        3,
+        4,
+        3,
+        5,
+        4,
+        1,
+        2,
+        3,
+        5
+    ]
+  },
+  {
+    "name":"Jessica Spano",
+    "photo":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-saved-by-the-bell-elizabeth-berkley.jpg",
+    "scores":[
+        4,
+        1,
+        1,
+        1,
         2,
         1,
-        4,
+        2,
+        5,
+        2,
+        5
+    ]
+  },
+  {
+    "name":"Richard Belding",
+    "photo":"https://www.picclickimg.com/d/l400/pict/264202328677_/Dennis-Haskins-Signed-Autograph-8x10-Photo-Mr-Belding.jpg",
+    "scores":[
+        5,
+        1,
+        5,
         3,
+        3,
+        5,
+        3,
+        3,
+        5,
         2
     ]
   }
